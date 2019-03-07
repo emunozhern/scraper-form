@@ -1,1 +1,1 @@
-# Simple scraper creado en php
+# Simple scraper de comuniazo
